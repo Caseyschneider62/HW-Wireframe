@@ -1,0 +1,91 @@
+h1 {
+ border: 1px solid black;
+ text-align: center;
+ margin: 5px;
+ padding: 30px 10px;
+ background-color: #777;
+ content: #ebebeb;
+ font-size: 18px;
+ width: 80%;
+ margin-left: 75px;
+
+}
+.jason {
+	border: 1px solid black;
+	height: 300px;
+	width: 550px;
+	text-align: center;
+	margin: 75px;
+	margin-top: 15px;
+	font-size: 18px;
+	background-color: #777;
+
+}
+.casey {
+	font-size: 18px;
+}
+.code {
+	font-size: 18px;
+	border: 1px solid black;
+	padding: 20px 20px;
+    width: 90%;
+    margin: 6px;
+    background-color: white;
+    margin-top: 50px;
+    height: 165px;
+
+
+	
+}
+
+h3 {
+	border: 1px solid black;
+	padding: 20px 10px;
+	height: 260px;
+	width: 390px;
+	margin-top: -377px;
+	float: right;
+	text-align: center;
+	margin-right: 140px;
+	background-color: #777;
+
+
+}
+.jamie {
+	border: 1px solid black;
+	font-size: 18px;
+	height: 50px;
+	width: 500px;
+	background-color: #777;
+	margin-left: 22px;
+	margin-top: -135px;
+
+	}
+	.wayne {
+		font-size: 18px;
+		border: 1px solid black;
+		height: 50px;
+		width: 500px;
+		background-color: #777;
+		margin-left: 22px;
+		margin-top: -10px;
+
+}
+	h4 {
+		border: 1px solid black;
+		text-align: center;
+		margin: 5px;
+		padding: 30px 10px;
+		background-color: #777;
+		width: 950px;
+		margin-left: 75px;
+		margin-top: -60px;
+
+
+
+
+	}
+
+
+
+
